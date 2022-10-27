@@ -18,6 +18,10 @@ This project is GUI based to measure your typing speed.
  - [matplotlib](https://matplotlib.org/) - for graphing 📈
  - [numpy](https://numpy.org/) 
 
+## What can you change❓
+ - You can change the words in the ```100words.txt``` to whichever set you want. Just keep them space separated.
+ - Your history is stored in ```records.txt```. You can use it to your will.
+
 
 ## Installation
  - Install the folder ```Typing GUI``` and then you can either run ```latest.py``` or could run the exe.
