@@ -56,13 +56,11 @@ def time():
     global inputstring
     global displaystring
     
-    # 15 second mate
+   
     # if(timeleft >= 11):
-    #     # Ahiya change kariyo che
-    #     # have sahaj tare bau utavad ma 4 second ma pehli liti type nai kari devani
-    #     inputstring="" # aa navu nakhiyu che karan ke dar vakhte apde input clear karva magiye che ne
+   
  
-    # 60 second mate
+    # 60 second 
     if timeleft >= 58:
         time_label.configure(fg="black")
         inputstring = ""
